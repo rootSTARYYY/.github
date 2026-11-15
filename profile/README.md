@@ -58,9 +58,15 @@ Building software, automation tools, and infrastructure solutions.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootSTARYYY&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rootSTARYYY&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+<h2 align="center">GitHub Statistics</h2>
+
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=rootSTARYYY&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&rank_icon=github" />
+
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rootSTARYYY&layout=compact&theme=github_dark&langs_count=8&hide_border=true" />
+</div>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rootSTARYYY&theme=transparent&hide_border=true)
 
@@ -68,13 +74,19 @@ Building software, automation tools, and infrastructure solutions.
 
 ---
 
-## Discord Presence
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/845887110225592350?showDisplayName=true&idleMessage=Probably%20building%20something...)](https://discord.com/users/845887110225592350)
+### Discord Presence
+
+<div align="center">
+  <a href="https://discord.com/users/845887110225592350">
+    <img src="https://lanyard.cnrad.dev/api/845887110225592350?theme=dark&bg=101820&borderRadius=24px&animated=true&showDisplayName=true&animatedDecoration=true&idleMessage=Probably%20building%20something%20cool..." />
+  </a>
+</div>
 
 </div>
+
 
 ---
 
